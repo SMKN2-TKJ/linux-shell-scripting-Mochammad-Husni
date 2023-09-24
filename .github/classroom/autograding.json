@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "hallo",
+      "setup": "",
+      "run": "./test/Run.sh",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 40,
+      "points": 100
+    }
+  ]
+}
